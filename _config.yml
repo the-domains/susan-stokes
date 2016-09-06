@@ -12,5 +12,9 @@ color:
     - '#FF3800'
 layout_spectrum: 0.0733978278003633
 name: susan stokes
+navigation:
+  - name: Life style management
+    url: 'http://queencityconciergeservice.com'
+    type: external
 title: Lifestyle Management
 description: For the connoisseur
